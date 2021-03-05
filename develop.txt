@@ -1,2 +1,6 @@
 Test develop commit 1
 Test re-check commit 2
+
+=======================
+fix sample commit
+fix amend commit
